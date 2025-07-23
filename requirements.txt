@@ -1,0 +1,7 @@
+openai-whisper
+librosa
+moviepy == 1.0.3
+nltk
+torch
+numpy<2.0
+streamlit
